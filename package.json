@@ -1,0 +1,29 @@
+{
+  "name": "sync-js",
+  "version": "1.0.0",
+  "description": "ftp folder sync library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ka-sh/sync.git"
+  },
+  "keywords": [
+    "ftp",
+    "sync"
+  ],
+  "author": "KAREEM ELSHAHAWE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ka-sh/sync/issues"
+  },
+  "homepage": "https://github.com/ka-sh/sync",
+  "dependencies": {
+    "async": "^1.5.0",
+    "jsftp": "^1.5.3",
+    "later": "^1.2.0",
+    "lodash": "^3.10.1"
+  }
+}
